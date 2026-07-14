@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>연금 제안서 · 하나로H종신보험 (<span data-f="monthly">30만원</span>)</title>
+<title>하나로H종신보험 연금 제안서</title>
 <style>
   body{ -webkit-font-smoothing:antialiased; }
   *{ font-weight:600; font-family:'LIFEPLUS Bold','LIFEPLUSBold','LIFEPLUSBOLD','LIFEPLUS','Hanwha(LIFEPLUS)','HanwhaLIFEPLUS','Hanwha LIFEPLUS','Hanwhalife','Hanwha','한화생명','한화 라이프플러스','한화라이프플러스','Pretendard',-apple-system,'Malgun Gothic',sans-serif !important; margin:0; padding:0; box-sizing:border-box; word-break:keep-all; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
